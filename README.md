@@ -1,1 +1,1 @@
-# eazybytes-config
+# server-config
